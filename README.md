@@ -2,7 +2,7 @@
 - 👀 I’m interested in help with school work
 - 🌱 I’m currently learning comp sci (highschool)
 - 💞️ I’m looking to collaborate on homework
-- 📫 How to reach me @azizyusha@gmail.com
+- 📫 How to reach me @yaziz30@stuy.edu
 
 <!---
 Jayfiul/Jayfiul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
