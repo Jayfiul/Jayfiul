@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Jayfiul
-- 👀 I’m interested in help with school work
-- 🌱 I’m currently learning comp sci (highschool)
-- 💞️ I’m looking to collaborate on homework
-- 📫 How to reach me @yaziz30@stuy.edu
+- 👋 Hi, I’m Yusha
+      I go to school at Stuyvesant High School. You can reach me via email @yaziz30@stuy.edu or via instagram @jayfiul
 
 <!---
 Jayfiul/Jayfiul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
